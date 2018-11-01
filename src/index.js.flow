@@ -13,7 +13,7 @@ import type {
   Attributes,
   NodeRange,
   ContentMatch
-} from "./prosemirror-model@1.6.3.js"
+} from "../../prosemirror-model/src/index.js"
 
 // export type Config = {
 //   schema?: Schema,
