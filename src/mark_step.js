@@ -1,4 +1,4 @@
-import {Fragment, Slice} from "prosemirror-model"
+import {Fragment, Slice} from "../../prosemirror-model/src/index.js"
 import {Step, StepResult} from "./step"
 
 function mapFragment(fragment, f, parent) {
